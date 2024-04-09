@@ -5,3 +5,5 @@
 - Modificacion 2
 
 - Modificacion 3v2
+
+- Modificacion en otro equipo
